@@ -1,5 +1,0 @@
-{
-    "port": 5000,
-    "jwtSecret": "my super secret key",
-    "mongoUri": "mongodb+srv://nikita:1234@cluster0.r5tzy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-}
